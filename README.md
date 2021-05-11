@@ -19,4 +19,8 @@ This an front end project by using reactjs.
     1. whole numbers 
     2. natural numbers 
     3. integers
+
+![TAJ MAHAL](https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg)
+
+
   

@@ -22,6 +22,11 @@ This an front end project by using reactjs.
 
 ![TAJ MAHAL](https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg)
 [google](https://www.google.com/)
-
-
+~~~python
+def fun():
+   print("hai")
+~~~   
+Table 1 | Table 2     
+--------|--------
+table body 1 | Table body 2
   
